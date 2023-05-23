@@ -1,6 +1,6 @@
-# deneme_
+# First Project in Flutter
+ This is the first application I have made in flutter. I did not use a backend tool in the application, just a copy of the application of the company I did my internship.
 
-A new Flutter project.
 
 ## Getting Started
 
