@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../Widgets/add_button.dart';
-import '../Widgets/drawer_menu.dart';
+import '../Widgets/addButton.dart';
+import '../Widgets/drawerMenu.dart';
 
 // ignore: camel_case_types
 class AnasayfaList extends StatefulWidget {
